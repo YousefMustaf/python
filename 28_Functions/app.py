@@ -31,4 +31,3 @@ print("Finish")
 def greet_user():
     print('Hello Friend')
     print('Hello Friend')
->>>>>>> 5e5fa7a (FileUUUpdate)
