@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # message = input ("> ")
 
 # words = message.split(' ')
@@ -25,9 +24,3 @@ def greet_user():
 print("Start")
 greet_user()        # This is the correct way to call a function.
 print("Finish")
-=======
-# to define a function we use the keyword "def" = define like below 
-
-def greet_user():
-    print('Hello Friend')
-    print('Hello Friend')
