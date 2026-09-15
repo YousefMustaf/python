@@ -7,7 +7,7 @@ def emoji_converter(message):
     }
     output = ""
     for word in words:
-        output += emojis.get(word, word) + " "
+        output = output + emojis.get(word, word) + " "
     return output
 
 message = input("> ")
